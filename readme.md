@@ -13,4 +13,4 @@ O curso abrange uma ampla gama de tópicos, desde introdução às linguagens de
 
 ### Anotações e Prática
 
-* [Formação Cientista de Dados 2023](formacao-cientista-de-dados-2023)
+* [Formação Cientista de Dados 2023](formacao-cientista-de-dados)
