@@ -161,15 +161,15 @@ A expressão **CASE WHEN THEN END** é usada para realizar operações condicion
 
 ### Prática em SQL:
 
-* [Aula 02](modulo01\aula02.sql) 
+* [Aula 02](\modulo01\aula02.sql) 
 
-* [Aula 04](modulo01\aula04.sql) 
+* [Aula 04](\modulo01\aula04.sql) 
 
-* [Aula 06](modulo01\aula06.sql) 
+* [Aula 06](\modulo01\aula06.sql) 
 
-* [Aula 08](modulo01\aula08.sql) 
+* [Aula 08](\modulo01\aula08.sql) 
 
-* [Mãos à obra 01](modulo01\maos-a-obra.sql)  
+* [Mãos à obra 01](\modulo01\maos-a-obra.sql)  
 
 
 ---
@@ -312,11 +312,11 @@ A chave estrangeira é usada para garantir a integridade referencial, o que sign
 
 ### Prática em SQL:
 
-* [Aula 04](modulo02\aula04.sql) 
+* [Aula 04](\modulo02\aula04.sql) 
 
-* [Aula 08](modulo02\aula08.sql) 
+* [Aula 08](\modulo02\aula08.sql) 
 
-* [Mãos à obra 02](modulo02\maos-a-obra02.sql) 
+* [Mãos à obra 02](\modulo02\maos-a-obra02.sql) 
 
 
 
